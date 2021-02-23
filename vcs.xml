@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Lomovskiy/android_imagepicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="lomovskiy" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\a\Documents" />
